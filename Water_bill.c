@@ -1,9 +1,9 @@
-//program on mobile data cost selection
+//program on water bill calculation
 /*
 Name:Kevin Kipngeno
 Reg no:PA106/G/28707/25
 Date:30/09/2025
-Description:program on mobile data bundle purchase
+Description:program to calculate water bill 
 */
 #include<stdio.h>
 #include<math.h>
@@ -33,3 +33,4 @@ int main(){
 	return 0;
 
 }
+
